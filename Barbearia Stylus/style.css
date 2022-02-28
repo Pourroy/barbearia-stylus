@@ -1,0 +1,38 @@
+body {
+  background-color: #f0efed;
+  font-family: Verdana;
+  margin: 30px 320px 30px 320px;
+  color: #616163;
+}
+span {
+  font-weight: bold;
+}
+div {
+  margin: 30px;
+  text-align: center;  
+}
+h1 {
+  border: 5px solid rgb(68, 65, 65);
+  padding: 10px;
+}
+h3 {
+  border-bottom: 2px solid black;
+  border-top: 2px solid grey;
+  font-weight: normal;
+  padding: 10px;
+}
+p {
+  text-align: justify;
+  line-height: 30px;
+  font-size: 18px;
+  color: rgb(75, 73, 73);
+}
+
+a {
+  font-family: Arial;
+  text-decoration: none;
+  border-radius: 25px;
+  padding: 15px;
+  background-color: rgb(126, 212, 126);
+  color: white;
+}
